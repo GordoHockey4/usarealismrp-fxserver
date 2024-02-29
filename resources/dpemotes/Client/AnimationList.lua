@@ -234,7 +234,31 @@ DP.Shared = {
         yRot = 0.0,
         zRot = 0.0,
     }},
-["layheadonpartner"] = {"tigerle@custom@couple@cuddle1b", "tigerle_couple_cuddle1b", "layheadonpartner", "headonlap", AnimationOptions =
+    ["layheadonpartner"] = {"tigerle@custom@couple@cuddle1b", "tigerle_couple_cuddle1b", "layheadonpartner", "headonlap", AnimationOptions =
+    {
+        EmoteMoving = false,
+        EmoteLoop = true,
+        Atatchto = true,
+        xPos = 0.0,
+        yPos = 0.0,
+        zPos = 0.0,
+        xRot = 0.0,
+        yRot = 0.0,
+        zRot = 0.0,
+    }},
+    ["headonlap2"] = {"tigerle@custom@couple@cuddle@no2a", "tigerle_couple_cuddleno2a", "headonlap2", "layheadonpartner2", AnimationOptions =
+    {
+        EmoteMoving = false,
+        EmoteLoop = true,
+        Atatchto = true,
+        xPos = 0.0,
+        yPos = 0.0,
+        zPos = 0.0,
+        xRot = 0.0,
+        yRot = 0.0,
+        zRot = 0.0,
+    }},
+    ["layheadonpartner2"] = {"tigerle@custom@couple@cuddle@no2b", "tigerle_couple_cuddleno2b", "layheadonpartner", "headonlap2", AnimationOptions =
     {
         EmoteMoving = false,
         EmoteLoop = true,
