@@ -366,6 +366,30 @@ DP.Shared = {
         yRot = 0.0,
         zRot = 0.0,
     }},
+    ["cuddle"] = {"tigerle@custom@couple@cuddle@no7", "tigerle_couple_cuddle_m", "cuddle", "cuddle2", AnimationOptions =
+    {
+        EmoteMoving = false,
+        EmoteLoop = true,
+        Atatchto = true,
+        xPos = 0.0,
+        yPos = 0.0,
+        zPos = 0.0,
+        xRot = 0.0,
+        yRot = 0.0,
+        zRot = 0.0,
+    }},
+    ["cuddle2"] = {"tigerle@custom@couple@cuddle@no7", "tigerle_couple_cuddle_f", "cuddle2", "cuddle", AnimationOptions =
+    {
+        EmoteMoving = false,
+        EmoteLoop = true,
+        Atatchto = true,
+        xPos = 0.0,
+        yPos = 0.0,
+        zPos = 0.0,
+        xRot = 0.0,
+        yRot = 0.0,
+        zRot = 0.0,
+    }},
 }
 
 DP.Dances = {
