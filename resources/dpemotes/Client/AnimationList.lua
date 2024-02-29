@@ -222,6 +222,30 @@ DP.Shared = {
    }},
    ["slapped"] = {"melee@unarmed@streamed_variations", "victim_takedown_front_slap", "Slapped", "slap"},
    ["slapped2"] = {"melee@unarmed@streamed_variations", "victim_takedown_front_backslap", "Slapped 2", "slap2"},
+   ["headonlap"] = {"tigerle@custom@couple@cuddle1a", "tigerle_couple_cuddle1a", "headonlap", "layheadonpartner", AnimationOptions =
+    {
+        EmoteMoving = false,
+        EmoteLoop = true,
+        Atatchto = true,
+        xPos = 0.0,
+        yPos = 0.0,
+        zPos = 0.0,
+        xRot = 0.0,
+        yRot = 0.0,
+        zRot = 0.0,
+    }},
+["layheadonpartner"] = {"tigerle@custom@couple@cuddle1b", "tigerle_couple_cuddle1b", "layheadonpartner", "headonlap", AnimationOptions =
+    {
+        EmoteMoving = false,
+        EmoteLoop = true,
+        Atatchto = true,
+        xPos = 0.0,
+        yPos = 0.0,
+        zPos = 0.0,
+        xRot = 0.0,
+        yRot = 0.0,
+        zRot = 0.0,
+    }},
 }
 
 DP.Dances = {
