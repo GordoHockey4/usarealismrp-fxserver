@@ -294,6 +294,30 @@ DP.Shared = {
         yRot = 0.0,
         zRot = 0.0,
     }},
+    ["partnerinbetweenlegs"] = {"tigerle@custom@couple@cuddle@no4a", "tigerle_couple_base_a", "partnerinbetweenlegs", "sitbetweenlegs", AnimationOptions =
+    {
+        EmoteMoving = false,
+        EmoteLoop = true,
+        Atatchto = true,
+        xPos = 0.0,
+        yPos = 0.0,
+        zPos = 0.0,
+        xRot = 0.0,
+        yRot = 0.0,
+        zRot = 0.0,
+    }},
+    ["sitbetweenlegs"] = {"tigerle@custom@couple@cuddle@no4b", "tigerle_couple_base_b", "sitbetweenlegs", "partnerinbetweenlegs", AnimationOptions =
+    {
+        EmoteMoving = false,
+        EmoteLoop = true,
+        Atatchto = true,
+        xPos = 0.0,
+        yPos = 0.0,
+        zPos = 0.0,
+        xRot = 0.0,
+        yRot = 0.0,
+        zRot = 0.0,
+    }},
 }
 
 DP.Dances = {
