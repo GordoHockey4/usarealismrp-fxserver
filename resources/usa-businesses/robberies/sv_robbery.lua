@@ -52,7 +52,7 @@ AddEventHandler('business:finishRobbery', function(storeName)
 				local policeOnline = exports["usa-characters"]:GetNumCharactersWithJob("sheriff")
 				local bonus = 0
 				if policeOnline >= policeNeededForBonus then
-					bonus = math.floor(reward * 0.40)
+					bonus = math.floor(reward * 0.50)
 				end
 				char.giveMoney(reward + bonus)
 				print("ROBBERY: "..GetPlayerName(usource)..'['..GetPlayerIdentifier(usource).."] has been rewarded reward: "..(reward + bonus))

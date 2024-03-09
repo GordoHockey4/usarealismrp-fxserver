@@ -1,5 +1,5 @@
-POLICE_NEEDED = 2
-policeNeededForBonus = 3
+POLICE_NEEDED = 0
+policeNeededForBonus = 0
 robberyCooldown = 2100
 
 LEASE_PERIOD_DAYS = 14
