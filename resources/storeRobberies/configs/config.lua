@@ -11,7 +11,7 @@ Config.CopJobs = { --Set your police job names here. IF YOU ARE USING VRP SET YO
     "corrections"
 }
 
-Config.NoRobPolice = false --If set to true, policemen cannot start the robbery by aiming.
+Config.NoRobPolice = true --If set to true, policemen cannot start the robbery by aiming.
 
 Config.vRP_Permissions = { --IF YOU ARE USING VRP SET THE PERMISSIONS HERE FOR COPS.
     "police.service",
